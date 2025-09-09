@@ -6,7 +6,7 @@ st.title("Rifaah CROP PVT LTD")
 #===Left Menu==== 
 st.sidebar.text("Menu")
 
-st.sidebar.button("Emplooye")
+st.sidebar.button("vender")
 
 st.sidebar.button("Supplier")
 
